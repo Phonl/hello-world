@@ -1,2 +1,3 @@
 # hello-world
 Repository made from the initial guide.
+Continuing to follow the guide's instructions, I attempt to write a "bit" about myself. Being human, however, I am not created from "bits", but rather arrangements of proteins containing data which is output in proteins and related biochemical compounds and behavior. Given my spelling of "behavior", you already know "a bit" about my origin and current residence. I have made 66 journeys around the sun, each seeming faster than the previous. Yet, my ability to move around on the sperical vehicle on which I have made these trips has slowed. I began to learn computers and coding when punch cards were required for input. I am still trying to learn. My primary interests are Data Science and Web/Database integration.
